@@ -104,6 +104,10 @@
   "url": "https://doi.org/10.1007/s00422-026-01039-3",
   "year": 2026
  },
+ "DP2AI192730": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "DP2AI192743": {
   "checked": "2026-09-23",
   "pmid": null
@@ -148,6 +152,10 @@
  },
  "DP2CA325383": {
   "checked": "2026-09-23",
+  "pmid": null
+ },
+ "DP2CA325959": {
+  "checked": "2026-09-28",
   "pmid": null
  },
  "DP2EB035905": {
@@ -752,6 +760,15 @@
  "K99NS150914": {
   "checked": "2026-09-23",
   "pmid": null
+ },
+ "OT2OD038121": {
+  "abs": true,
+  "checked": "2026-09-28",
+  "pmid": "41256123",
+  "position": "middle",
+  "title": "Population-scale Long-read Sequencing in the All of Us Research Program",
+  "url": "https://doi.org/10.1101/2025.10.02.25336942",
+  "year": 2025
  },
  "OT2OD038371": {
   "checked": "2026-09-23",
@@ -1572,12 +1589,25 @@
   "url": "https://doi.org/10.1016/j.isci.2026.117154",
   "year": 2026
  },
+ "R01AR085629": {
+  "abs": true,
+  "checked": "2026-09-28",
+  "pmid": "42238401",
+  "position": "unknown",
+  "title": "Enfortumab vedotin-induced cutaneous toxicities and their association with survival in urothelial carcinoma",
+  "url": "https://doi.org/10.64898/2026.05.19.26353579",
+  "year": 2026
+ },
  "R01AR085768": {
   "checked": "2026-09-23",
   "pmid": null
  },
  "R01AR086159": {
   "checked": "2026-09-23",
+  "pmid": null
+ },
+ "R01AR086165": {
+  "checked": "2026-09-28",
   "pmid": null
  },
  "R01AR086251": {
@@ -1651,6 +1681,15 @@
   "position": "unknown",
   "title": "Velociraptor Machine Learning Quantifies Similarity to Known Cell Types and Matches Cells Across Flow and Imaging Cytometry Platforms",
   "url": "https://doi.org/10.1002/cyto.a.70066",
+  "year": 2026
+ },
+ "R01CA243483": {
+  "abs": true,
+  "checked": "2026-09-28",
+  "pmid": "41565855",
+  "position": "middle",
+  "title": "Multi-trait and multi-ancestry genetic analysis of comorbid lung diseases and traits improves genetic discovery and polygenic risk prediction",
+  "url": "https://doi.org/10.1038/s41588-025-02470-1",
   "year": 2026
  },
  "R01CA255116": {
@@ -1839,8 +1878,16 @@
   "checked": "2026-09-23",
   "pmid": null
  },
+ "R01CA308075": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "R01CA309441": {
   "checked": "2026-09-23",
+  "pmid": null
+ },
+ "R01CA309939": {
+  "checked": "2026-09-28",
   "pmid": null
  },
  "R01CA310975": {
@@ -1857,6 +1904,10 @@
  },
  "R01CA316420": {
   "checked": "2026-09-23",
+  "pmid": null
+ },
+ "R01CA316439": {
+  "checked": "2026-09-28",
   "pmid": null
  },
  "R01CA325384": {
@@ -2086,6 +2137,19 @@
   "checked": "2026-09-23",
   "pmid": null
  },
+ "R01FD007829": {
+  "abs": true,
+  "checked": "2026-09-28",
+  "pmid": "41369611",
+  "position": "middle",
+  "title": "CXCL9 as a novel prognostic marker to identify high-risk adults with hemophagocytic lymphohistiocytosis",
+  "url": "https://doi.org/10.1182/blood.2025030976",
+  "year": 2025
+ },
+ "R01FD008794": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "R01GM080203": {
   "abs": true,
   "checked": "2026-09-23",
@@ -2202,6 +2266,15 @@
   "url": "https://doi.org/10.1136/bmjopen-2025-104591",
   "year": 2025
  },
+ "R01HD114856": {
+  "abs": true,
+  "checked": "2026-09-28",
+  "pmid": "40365444",
+  "position": "last",
+  "title": "Ultrasound-Guided Rete Testis Approach to Sperm Aspiration and Spermatogonial Stem Cell Transplantation in Patients with Azoospermia",
+  "url": "https://doi.org/10.1101/2025.03.25.25324518",
+  "year": 2025
+ },
  "R01HD114864": {
   "checked": "2026-09-23",
   "pmid": null
@@ -2237,6 +2310,10 @@
  },
  "R01HD120599": {
   "checked": "2026-09-23",
+  "pmid": null
+ },
+ "R01HD120668": {
+  "checked": "2026-09-28",
   "pmid": null
  },
  "R01HD121516": {
@@ -2625,6 +2702,24 @@
  "R01HL188492": {
   "checked": "2026-09-23",
   "pmid": null
+ },
+ "R01HS029009": {
+  "abs": true,
+  "checked": "2026-09-28",
+  "pmid": "42428122",
+  "position": "last",
+  "title": "Proposed Context-of-Use Evaluation Framework for Medication Management Tasks Completed by Generative Artificial Intelligence",
+  "url": "https://doi.org/10.64898/2026.06.26.26356706",
+  "year": 2026
+ },
+ "R01HS029467": {
+  "abs": true,
+  "checked": "2026-09-28",
+  "pmid": "42050918",
+  "position": "last",
+  "title": "Practice Acquisitions in Home\u2010Based Medical Care in the United States",
+  "url": "https://doi.org/10.1111/jgs.70468",
+  "year": 2026
  },
  "R01LM014508": {
   "abs": true,
@@ -3077,6 +3172,10 @@
   "checked": "2026-09-23",
   "pmid": null
  },
+ "R13FD008396": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "R13HD122396": {
   "checked": "2026-09-23",
   "pmid": null
@@ -3271,12 +3370,36 @@
   "checked": "2026-09-23",
   "pmid": null
  },
+ "R21AR088737": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "R21AR088867": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "R21AR088908": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "R21AT014079": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "R21CA307416": {
   "checked": "2026-09-23",
   "pmid": null
  },
+ "R21CA308699": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "R21CA312975": {
   "checked": "2026-09-23",
+  "pmid": null
+ },
+ "R21CA317193": {
+  "checked": "2026-09-28",
   "pmid": null
  },
  "R21DE036374": {
@@ -3673,6 +3796,10 @@
  },
  "R34AA033422": {
   "checked": "2026-09-23",
+  "pmid": null
+ },
+ "R34MH136243": {
+  "checked": "2026-09-28",
   "pmid": null
  },
  "R34MH138249": {
@@ -4139,6 +4266,10 @@
   "checked": "2026-09-23",
   "pmid": null
  },
+ "R37CA311186": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "R37NS128416": {
   "abs": true,
   "checked": "2026-09-23",
@@ -4562,6 +4693,15 @@
   "url": "https://doi.org/10.1093/eurheartj/ehag689",
   "year": 2026
  },
+ "U01CA269191": {
+  "abs": true,
+  "checked": "2026-09-28",
+  "pmid": "42169773",
+  "position": "last",
+  "title": "CoreView imaging on needle: Rapid core-needle biopsy imaging for point-of-care breast cancer diagnosis",
+  "url": "https://doi.org/10.36922/gtm025170039",
+  "year": 2025
+ },
  "U01CA269199": {
   "abs": true,
   "checked": "2026-09-23",
@@ -4665,6 +4805,14 @@
   "url": "https://doi.org/10.1016/j.chroma.2025.466600",
   "year": 2025
  },
+ "U01FD008646": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U01FD008648": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "U01FD008727": {
   "checked": "2026-09-23",
   "pmid": null
@@ -4689,6 +4837,10 @@
   "title": "Leveraging PCORnet\u00ae to Advance Clinical Genetics and the Genomic Learning Health System",
   "url": "https://doi.org/10.1097/mlr.0000000000002247",
   "year": 2026
+ },
+ "U01NS129143": {
+  "checked": "2026-09-28",
+  "pmid": null
  },
  "U01NS131086": {
   "abs": true,
@@ -4726,8 +4878,80 @@
   "url": "https://doi.org/10.1101/2024.06.21.599617",
   "year": 2024
  },
+ "U18FD008480": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008900": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008901": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008909": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008912": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008915": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008920": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008931": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008935": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008937": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008939": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008941": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008944": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008945": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008946": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008953": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
+ "U18FD008962": {
+  "checked": "2026-09-28",
+  "pmid": null
+ },
  "U18FD008964": {
   "checked": "2026-09-23",
+  "pmid": null
+ },
+ "U18FD008965": {
+  "checked": "2026-09-28",
   "pmid": null
  },
  "U19AI171110": {
@@ -4916,6 +5140,10 @@
   "title": "Future-use consent and human virome research: ethical challenges",
   "url": "https://doi.org/10.1128/jvi.00420-26",
   "year": 2026
+ },
+ "U54AI205728": {
+  "checked": "2026-09-28",
+  "pmid": null
  },
  "U54AR068069": {
   "abs": true,
