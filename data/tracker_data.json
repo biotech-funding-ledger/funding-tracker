@@ -2,7 +2,8 @@
  "dates": [
   "2026-09-06",
   "2026-09-13",
-  "2026-09-20"
+  "2026-09-20",
+  "2026-09-27"
  ],
  "meta": {
   "schema": "nih-weekly-1"
@@ -6183,6 +6184,16 @@
       "pi_email_via": "PubMed",
       "url": "https://reporter.nih.gov/project-details/11345143"
      }
+    ],
+    "2026-09-27": [
+     {
+      "amount": 8492000,
+      "core": "OT2HL167310",
+      "label": "$8,492,000",
+      "pi": "Bruce Siege",
+      "pi_email": "",
+      "url": "https://reporter.nih.gov/project-details/11638380"
+     }
     ]
    },
    "department": "--",
@@ -6628,6 +6639,23 @@
    },
    "department": "Pharmacology",
    "funder": "NIH (NIAMS)",
+   "university": "Rutgers Biomedical and Health Sciences"
+  },
+  "rutgers biomedical and health sciences||pharmacology||nih (niddk)": {
+   "cells": {
+    "2026-09-27": [
+     {
+      "amount": 780495,
+      "core": "R01DK148717",
+      "label": "$780,495",
+      "pi": "Nan Gao",
+      "pi_email": "",
+      "url": "https://reporter.nih.gov/project-details/11429473"
+     }
+    ]
+   },
+   "department": "Pharmacology",
+   "funder": "NIH (NIDDK)",
    "university": "Rutgers Biomedical and Health Sciences"
   },
   "rutgers, the state univ of n.j.||anatomy/cell biology||nih (ninds)": {
@@ -8644,6 +8672,16 @@
       "pi_email": "eamaga@ucdavis.edu",
       "pi_email_via": "PubMed",
       "url": "https://reporter.nih.gov/project-details/11419446"
+     }
+    ],
+    "2026-09-27": [
+     {
+      "amount": 25000,
+      "core": "U18FD008480",
+      "label": "$25,000",
+      "pi": "Elizabeth A Maga",
+      "pi_email": "",
+      "url": "https://reporter.nih.gov/project-details/11641870"
      }
     ]
    },
@@ -16658,6 +16696,23 @@
    },
    "department": "--",
    "funder": "NIH (NHLBI)",
+   "university": "Yale University"
+  },
+  "yale university||--||nih (nia)": {
+   "cells": {
+    "2026-09-27": [
+     {
+      "amount": 780773,
+      "core": "R01AG094838",
+      "label": "$780,773",
+      "pi": "Siyuan Wang",
+      "pi_email": "",
+      "url": "https://reporter.nih.gov/project-details/11201798"
+     }
+    ]
+   },
+   "department": "--",
+   "funder": "NIH (NIA)",
    "university": "Yale University"
   },
   "yale university||--||nih (nichd)": {
