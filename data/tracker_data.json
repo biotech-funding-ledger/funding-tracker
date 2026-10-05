@@ -6649,7 +6649,8 @@
       "core": "R01DK148717",
       "label": "$780,495",
       "pi": "Nan Gao",
-      "pi_email": "",
+      "pi_email": "gaon@pku.edu.cn",
+      "pi_email_via": "PubMed",
       "url": "https://reporter.nih.gov/project-details/11429473"
      }
     ]
@@ -8680,7 +8681,8 @@
       "core": "U18FD008480",
       "label": "$25,000",
       "pi": "Elizabeth A Maga",
-      "pi_email": "",
+      "pi_email": "eamaga@ucdavis.edu",
+      "pi_email_via": "PubMed",
       "url": "https://reporter.nih.gov/project-details/11641870"
      }
     ]
@@ -16706,7 +16708,8 @@
       "core": "R01AG094838",
       "label": "$780,773",
       "pi": "Siyuan Wang",
-      "pi_email": "",
+      "pi_email": "sanwangwang@bjmu.edu",
+      "pi_email_via": "PubMed",
       "url": "https://reporter.nih.gov/project-details/11201798"
      }
     ]

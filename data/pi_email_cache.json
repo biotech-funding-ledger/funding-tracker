@@ -616,6 +616,11 @@
   "email": "bruce.ovbiagele@va.gov",
   "src": "PubMed"
  },
+ "bruce siege|research triangle institute": {
+  "checked": "2026-10-05",
+  "email": "",
+  "src": ""
+ },
  "bryan ranger|boston college": {
   "checked": "2026-09-16",
   "email": "bryan.ranger@bc.edu"
@@ -3378,6 +3383,11 @@
  "najib m el-sayed|univ of maryland, college park": {
   "checked": "2026-09-23",
   "email": "elsayed@umd.edu",
+  "src": "PubMed"
+ },
+ "nan gao|rutgers biomedical and health sciences": {
+  "checked": "2026-10-05",
+  "email": "gaon@pku.edu.cn",
   "src": "PubMed"
  },
  "naomi l luban|children's research institute": {
