@@ -1,50 +1,50 @@
 {
  "C06OD034040": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD034041": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD036038": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD039870": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD042691": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD042696": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD042701": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD042702": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD042704": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD042705": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD042707": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "C06OD042711": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "D43TW012275": {
@@ -57,12 +57,17 @@
   "year": 2026
  },
  "D43TW013013": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP1AT012812": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42282736",
+  "position": "last",
+  "title": "A Primary Cell Culture Platform for Studying Venom Gland and Brain Tissue in Octopus",
+  "url": "https://doi.org/10.64898/2026.06.01.729309",
+  "year": 2026
  },
  "DP1CA290563": {
   "abs": true,
@@ -74,7 +79,7 @@
   "year": 2026
  },
  "DP1CA324711": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP1DA060580": {
@@ -109,11 +114,11 @@
   "pmid": null
  },
  "DP2AI192743": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2AI201025": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2AT012795": {
@@ -126,7 +131,7 @@
   "year": 2025
  },
  "DP2AT014320": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2CA290802": {
@@ -139,19 +144,19 @@
   "year": 2025
  },
  "DP2CA324710": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2CA325377": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2CA325380": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2CA325383": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2CA325959": {
@@ -195,8 +200,13 @@
   "year": 2026
  },
  "DP2GM154329": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "41400440",
+  "position": "last",
+  "title": "Noise-Guided Design of Synthetic Protein Waves in Living Cells",
+  "url": "https://doi.org/10.1021/acssynbio.5c00599",
+  "year": 2025
  },
  "DP2HD115158": {
   "abs": true,
@@ -208,16 +218,21 @@
   "year": 2025
  },
  "DP2HD125960": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2HL193397": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "DP2LM014564": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42583526",
+  "position": "middle",
+  "title": "Learning to Recall with Transformers Beyond Orthogonal Embeddings",
+  "url": "https://doi.org/10.48550/arxiv.2603.15923",
+  "year": 2026
  },
  "DP2MH136390": {
   "abs": true,
@@ -247,15 +262,25 @@
   "year": 2025
  },
  "DP2NS136872": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42373986",
+  "position": "last",
+  "title": "Low-cost, open-source, full-stack software and Arduino-based hardware for control of commercially available animal behavior systems",
+  "url": "https://doi.org/10.3758/s13428-026-03096-9",
+  "year": 2026
  },
  "F30AI186284": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42633301",
+  "position": "first",
+  "title": "Near real-time data on the human neutralizing antibody landscape to influenza virus as of early 2026 to inform vaccine-strain selection",
+  "url": "https://doi.org/10.1093/ve/veag046",
+  "year": 2026
  },
  "F30CA298778": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F30HL162200": {
@@ -268,11 +293,16 @@
   "year": 2026
  },
  "F30HL174128": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42048774",
+  "position": "unknown",
+  "title": "(untitled)",
+  "url": "",
+  "year": 0
  },
  "F30HL177982": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F30HL178288": {
@@ -285,23 +315,28 @@
   "year": 0
  },
  "F30HL182205": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F30HL182280": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F31AG090108": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F31AG092136": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42236727",
+  "position": "first",
+  "title": "The vagus nerve promotes memory in rats via nutrient-induced septo-hippocampal acetylcholine signaling",
+  "url": "https://doi.org/10.1038/s41467-026-73896-2",
+  "year": 2026
  },
  "F31AI203122": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F31CA288051": {
@@ -314,7 +349,7 @@
   "year": 2026
  },
  "F31CA294736": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F31CA294904": {
@@ -345,31 +380,31 @@
   "year": 2026
  },
  "F31HL184786": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F31NS135980": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F31NS139505": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F32AI189122": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F32HL182237": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "F32HL182300": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "FM1EY038845": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K00AG088436": {
@@ -418,11 +453,11 @@
   "year": 2026
  },
  "K00HD125469": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K00MH138293": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K01AG081455": {
@@ -444,15 +479,15 @@
   "year": 2026
  },
  "K01AG093177": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K01AG104456": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K01AR079043": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K01AT012495": {
@@ -483,12 +518,17 @@
   "year": 2025
  },
  "K01HD123165": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K01HL151805": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42413908",
+  "position": "first",
+  "title": "Impact of Annual School Fitness Reports on Students\u2019 Cardiorespiratory Fitness: A Cluster-Randomized Controlled Trial of Parental Reporting",
+  "url": "https://doi.org/10.1123/pes.2025-0070",
+  "year": 2026
  },
  "K01HL171795": {
   "abs": true,
@@ -509,7 +549,7 @@
   "year": 2026
  },
  "K01HL177339": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K01HL181305": {
@@ -549,12 +589,17 @@
   "year": 2026
  },
  "K07AG097560": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K08AR088287": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42779876",
+  "position": "first",
+  "title": "Immune checkpoint blockade reshapes drug-associated toxicity: a pharmacovigilance atlas of drug-ICI interactions",
+  "url": "https://doi.org/10.64898/2026.08.31.26361880",
+  "year": 2026
  },
  "K08CA282374": {
   "abs": true,
@@ -566,11 +611,11 @@
   "year": 2026
  },
  "K08CA304529": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K08HL177275": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K08HL177342": {
@@ -583,15 +628,15 @@
   "year": 2026
  },
  "K08MH145573": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K23AG088471": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K23AG100993": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K23AI182453": {
@@ -604,11 +649,16 @@
   "year": 2026
  },
  "K23HD105929": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42596995",
+  "position": "last",
+  "title": "The association between oral risk assessment and obstetric and newborn outcomes",
+  "url": "https://doi.org/10.1002/pmf2.70114",
+  "year": 2025
  },
  "K23HD113869": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K23HL161437": {
@@ -621,20 +671,25 @@
   "year": 2025
  },
  "K23HL183769": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K23MH138666": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K24AG104608": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K24HL143055": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42680147",
+  "position": "middle",
+  "title": "Eliciting participant perspectives about a mailed brochure on sleeping pills and cognitive behavioural therapy for insomnia to inform future implementation of deprescribing interventions",
+  "url": "https://doi.org/10.1093/ijpp/riag120",
+  "year": 2026
  },
  "K25CA270079": {
   "abs": false,
@@ -646,119 +701,119 @@
   "year": 2026
  },
  "K38HL181374": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AA032540": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG092471": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG093043": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG093063": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG095278": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG097900": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG097912": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG097914": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG097938": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG097986": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG102010": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG103240": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG103522": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG103879": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AG104060": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AR085754": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99AR087986": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99CA307607": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99CA307870": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99CA312753": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99DE034831": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99GM162991": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99GM166995": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99HL177177": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99NS144115": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99NS144632": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99NS146574": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "K99NS150914": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "OT2HL167310": {
@@ -780,15 +835,15 @@
   "year": 2025
  },
  "OT2OD038371": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "OT2OD038374": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "OT2OD038378": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "P01AI165066": {
@@ -801,11 +856,11 @@
   "year": 2026
  },
  "P01AI201081": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "P01AI202707": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "P01CA092584": {
@@ -818,12 +873,22 @@
   "year": 2004
  },
  "P01CA275717": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42693354",
+  "position": "middle",
+  "title": "The 1H, 15N and 13C backbone resonance assignments of an intrinsically disordered region (467\u2013696) of breast cancer type 1 susceptibility protein (BRCA1)",
+  "url": "https://doi.org/10.1007/s12104-026-10277-2",
+  "year": 2026
  },
  "P01CA278716": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42745158",
+  "position": "last",
+  "title": "Context\u2010informed personalized segmentation from radiology reports: A fully automated framework for long\u2010term liver tumor follow\u2010up",
+  "url": "https://doi.org/10.1002/mp.70624",
+  "year": 2026
  },
  "P01CA285250": {
   "abs": true,
@@ -835,11 +900,11 @@
   "year": 0
  },
  "P01CA302575": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "P01CA302582": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "P20GM103440": {
@@ -924,8 +989,13 @@
   "year": 2026
  },
  "P30AR079200": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42443217",
+  "position": "last",
+  "title": "Oncogenic Ras drives EED degradation and PRC2 dysfunction to promote aggressive squamous cell carcinoma",
+  "url": "https://doi.org/10.1038/s41467-026-75529-0",
+  "year": 2026
  },
  "P30AR083854": {
   "abs": true,
@@ -973,8 +1043,13 @@
   "year": 2026
  },
  "P30EY012196": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42779720",
+  "position": "unknown",
+  "title": "Divergence of Melanopsin\u2019s Intrinsic Properties and Downstream Actions",
+  "url": "https://doi.org/10.64898/2026.09.09.750349",
+  "year": 2026
  },
  "P30GM124166": {
   "abs": true,
@@ -1031,11 +1106,11 @@
   "year": 2026
  },
  "P50HD123367": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "P50MH144133": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "P60AA026112": {
@@ -1210,11 +1285,11 @@
   "year": 2026
  },
  "R00HD112594": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R00HD115745": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R00HD115785": {
@@ -1272,8 +1347,13 @@
   "year": 2026
  },
  "R00NS126575": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "40813925",
+  "position": "middle",
+  "title": "Condensates of synaptic vesicles and synapsin-1 mediate actin sequestering and polymerization",
+  "url": "https://doi.org/10.1038/s44318-025-00516-y",
+  "year": 2025
  },
  "R01AA030786": {
   "abs": true,
@@ -1285,19 +1365,19 @@
   "year": 2024
  },
  "R01AA032539": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AA032682": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AA033115": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AA033617": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AG056130": {
@@ -1346,12 +1426,17 @@
   "year": 2026
  },
  "R01AG082074": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AG083085": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "41993341",
+  "position": "last",
+  "title": "Sequestration of growth cone surface proteins by cytoplasmic Lrrtm2 induces de novo amygdala innervation by cerebral cortex associative neurons",
+  "url": "https://doi.org/10.64898/2026.04.08.716720",
+  "year": 2026
  },
  "R01AG083206": {
   "abs": true,
@@ -1381,7 +1466,7 @@
   "year": 2026
  },
  "R01AG089050": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AG094838": {
@@ -1389,23 +1474,23 @@
   "pmid": null
  },
  "R01AG095167": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AG095675": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AG100223": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AG102717": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AG104074": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI127465": {
@@ -1454,7 +1539,7 @@
   "year": 2023
  },
  "R01AI180650": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI182159": {
@@ -1476,7 +1561,7 @@
   "year": 2026
  },
  "R01AI184710": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI187352": {
@@ -1489,55 +1574,55 @@
   "year": 2025
  },
  "R01AI189373": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI190007": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI195257": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI195740": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI196614": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI198651": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI198756": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI201156": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI201496": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI201651": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI202404": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI203269": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI203540": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AI203665": {
@@ -1550,7 +1635,7 @@
   "year": 2026
  },
  "R01AI206606": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AR069503": {
@@ -1581,7 +1666,7 @@
   "year": 2026
  },
  "R01AR083052": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AR084525": {
@@ -1612,11 +1697,11 @@
   "year": 2026
  },
  "R01AR085768": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AR086159": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AR086165": {
@@ -1624,15 +1709,15 @@
   "pmid": null
  },
  "R01AR086251": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AR086295": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AR087751": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AT012826": {
@@ -1645,19 +1730,19 @@
   "year": 2026
  },
  "R01AT013053": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AT013242": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AT013393": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01AT013689": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA142746": {
@@ -1787,7 +1872,7 @@
   "year": 2026
  },
  "R01CA281862": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA284268": {
@@ -1836,7 +1921,7 @@
   "year": 0
  },
  "R01CA292925": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA293942": {
@@ -1858,7 +1943,7 @@
   "year": 2025
  },
  "R01CA299430": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA299870": {
@@ -1880,15 +1965,15 @@
   "year": 2026
  },
  "R01CA306353": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA307343": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA307971": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA308075": {
@@ -1896,7 +1981,7 @@
   "pmid": null
  },
  "R01CA309441": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA309939": {
@@ -1904,19 +1989,19 @@
   "pmid": null
  },
  "R01CA310975": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA315247": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA315906": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA316420": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01CA316439": {
@@ -1924,7 +2009,7 @@
   "pmid": null
  },
  "R01CA325384": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DC005779": {
@@ -1946,27 +2031,27 @@
   "year": 2026
  },
  "R01DC024134": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DE034843": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DE035101": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DE035458": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DE036079": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DE036983": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DK085025": {
@@ -1988,15 +2073,15 @@
   "year": 2026
  },
  "R01DK141729": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DK147707": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DK148643": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01DK148717": {
@@ -2004,7 +2089,7 @@
   "pmid": null
  },
  "R01DK148906": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01EB031935": {
@@ -2017,31 +2102,31 @@
   "year": 2026
  },
  "R01EB039082": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01EB041352": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01EB041354": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01ES038200": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01ES038526": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01ES038580": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01ES038738": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01EY003611": {
@@ -2072,8 +2157,13 @@
   "year": 2025
  },
  "R01EY013256": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "41040177",
+  "position": "last",
+  "title": "The Wnt co-receptor Arrow-LRP5/6 is required for planar cell polarity establishment in Drosophila",
+  "url": "https://doi.org/10.1038/s41467-026-78357-4",
+  "year": 2026
  },
  "R01EY022645": {
   "abs": true,
@@ -2139,19 +2229,19 @@
   "year": 2025
  },
  "R01EY037277": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01EY037721": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01EY038065": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01EY038193": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01FD007829": {
@@ -2249,11 +2339,11 @@
   "year": 2025
  },
  "R01GM164627": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01GM166384": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD080205": {
@@ -2293,7 +2383,7 @@
   "year": 2025
  },
  "R01HD114864": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD117164": {
@@ -2306,27 +2396,27 @@
   "year": 2026
  },
  "R01HD117973": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD119121": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD120383": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD120548": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD120575": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD120599": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD120668": {
@@ -2334,43 +2424,43 @@
   "pmid": null
  },
  "R01HD121516": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD121553": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD122769": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD122857": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD122974": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD123035": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD123265": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD123331": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD123518": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HD124954": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HG010086": {
@@ -2392,12 +2482,17 @@
   "year": 2026
  },
  "R01HG014877": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL098316": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42555704",
+  "position": "middle",
+  "title": "RTF2 and CLASPIN localize CHK1 to the replication fork to control S-phase progression",
+  "url": "https://doi.org/10.1126/sciadv.aec3174",
+  "year": 2026
  },
  "R01HL121500": {
   "abs": true,
@@ -2472,8 +2567,13 @@
   "year": 2024
  },
  "R01HL163578": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42525758",
+  "position": "unknown",
+  "title": "(untitled)",
+  "url": "",
+  "year": 0
  },
  "R01HL164446": {
   "abs": true,
@@ -2548,11 +2648,11 @@
   "year": 2026
  },
  "R01HL171807": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL171971": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL172293": {
@@ -2583,7 +2683,7 @@
   "year": 2025
  },
  "R01HL173601": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL175373": {
@@ -2605,15 +2705,15 @@
   "year": 2026
  },
  "R01HL176728": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL176741": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL176748": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL176779": {
@@ -2626,23 +2726,28 @@
   "year": 2025
  },
  "R01HL177004": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL177106": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42094177",
+  "position": "middle",
+  "title": "Sex-specific omics scores of sex hormones and associations with metabolic and sleep disorders",
+  "url": "https://doi.org/10.64898/2026.04.27.26351843",
+  "year": 2026
  },
  "R01HL178458": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL179205": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL179283": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL179676": {
@@ -2655,11 +2760,11 @@
   "year": 2026
  },
  "R01HL180368": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL180713": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL180725": {
@@ -2681,43 +2786,43 @@
   "year": 2026
  },
  "R01HL181607": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL183589": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL183653": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL184140": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL185419": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL185710": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL186713": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL187527": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL187616": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HL188492": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01HS029009": {
@@ -2757,15 +2862,15 @@
   "year": 2025
  },
  "R01LM015391": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01LM015459": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MD021700": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MH104603": {
@@ -2787,7 +2892,7 @@
   "year": 2026
  },
  "R01MH125395": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MH128279": {
@@ -2836,63 +2941,78 @@
   "year": 2023
  },
  "R01MH133566": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MH134474": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "41649594",
+  "position": "last",
+  "title": "Perinatal depression screening and diagnosis: Identifying opportunities to improve optimal care",
+  "url": "https://doi.org/10.1007/s00737-026-01676-4",
+  "year": 2026
  },
  "R01MH134803": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42239160",
+  "position": "middle",
+  "title": "Simultaneous brain-wide single-cell recording resolves spatiotemporal memory architecture",
+  "url": "https://doi.org/10.64898/2026.05.21.726120",
+  "year": 2026
  },
  "R01MH137873": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MH138324": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MH140406": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "41481296",
+  "position": "middle",
+  "title": "Bullying and Suicide Attempts Among US High School Students",
+  "url": "https://doi.org/10.1001/jamanetworkopen.2025.52089",
+  "year": 2026
  },
  "R01MH140750": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MH142278": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MH142446": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01MH143795": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NR022022": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NR022251": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NR022286": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NR022602": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NR022609": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS079518": {
@@ -2950,7 +3070,7 @@
   "year": 2026
  },
  "R01NS125435": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS126183": {
@@ -2999,8 +3119,13 @@
   "year": 2026
  },
  "R01NS132288": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42413503",
+  "position": "last",
+  "title": "A standardized and reproducible behavioral framework to elicit multiple aspects of visual spatial attention in mice",
+  "url": "https://doi.org/10.1016/j.crmeth.2026.101514",
+  "year": 2026
  },
  "R01NS133047": {
   "abs": true,
@@ -3021,7 +3146,7 @@
   "year": 2025
  },
  "R01NS137022": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS137919": {
@@ -3061,7 +3186,7 @@
   "year": 2025
  },
  "R01NS141796": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS142069": {
@@ -3074,119 +3199,124 @@
   "year": 2026
  },
  "R01NS143119": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS144831": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS144991": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS146896": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS147038": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS147337": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS149170": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS150224": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS150237": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS151039": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01NS154768": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01TW012677": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01TW012704": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42391403",
+  "position": "unknown",
+  "title": "(untitled)",
+  "url": "",
+  "year": 0
  },
  "R01TW013366": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R01TW013369": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03AG088906": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03AG101174": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03AI194096": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03AI202738": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03CA306012": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03CA308458": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03CA317617": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03DA066757": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03DE036042": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03HL185097": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03NS151500": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03NS153153": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R03TR006291": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R13AG071364": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R13FD008396": {
@@ -3194,59 +3324,64 @@
   "pmid": null
  },
  "R13HD122396": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15AI200015": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15AI202615": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15AI203448": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15AT013514": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15CA317831": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15EY039554": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15GM106260": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42304761",
+  "position": "last",
+  "title": "Palladium-catalyzed asymmetric carbofluorination of gem -difluorostyrenes with cesium fluoride and allylic acetates",
+  "url": "https://doi.org/10.1039/d6cc02743a",
+  "year": 2026
  },
  "R15GM163259": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15GM166962": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R15NS151160": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16AA033393": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16AI184352": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16AI201228": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16EY037336": {
@@ -3259,51 +3394,61 @@
   "year": 2026
  },
  "R16EY039197": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16GM153574": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16GM154661": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "40780467",
+  "position": "last",
+  "title": "Intranasal Delivery of Rapamycin Via Brain-Targeting Polymeric Micelles for Alzheimer's Disease Treatment",
+  "url": "https://doi.org/10.1016/j.ijpharm.2025.126011",
+  "year": 2025
  },
  "R16GM165482": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16GM165739": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16NS141736": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16NS147984": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "39015773",
+  "position": "first",
+  "title": "Glioblastoma stem cell long non-coding RNAs: therapeutic perspectives and opportunities",
+  "url": "https://doi.org/10.3389/fgene.2024.1416772",
+  "year": 2024
  },
  "R16NS151382": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R16NS151899": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R18HS030071": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AA032574": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AA032925": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AG093414": {
@@ -3316,75 +3461,75 @@
   "year": 2024
  },
  "R21AG096434": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AG098412": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AG102097": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AG104819": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AI186048": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AI188147": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AI193559": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AI193585": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AI196143": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AI198928": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR082957": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR085218": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR085864": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR086403": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR087067": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR087081": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR087357": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR088256": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21AR088737": {
@@ -3404,7 +3549,7 @@
   "pmid": null
  },
  "R21CA307416": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21CA308699": {
@@ -3412,7 +3557,7 @@
   "pmid": null
  },
  "R21CA312975": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21CA317193": {
@@ -3420,19 +3565,19 @@
   "pmid": null
  },
  "R21DE036374": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21EB037833": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21EB039849": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21EB039982": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21EY036651": {
@@ -3445,151 +3590,151 @@
   "year": 2026
  },
  "R21EY038411": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21EY038921": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD118469": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD119427": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD120747": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD120816": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD120843": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD120876": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD121033": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD121197": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD122301": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD122393": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD123069": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD123198": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD123205": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD123643": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD123835": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HD123893": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21HL181171": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NR022296": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NR022352": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NR022608": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS145862": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS147200": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS147342": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS147529": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS149047": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS149657": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS151155": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS151737": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21NS153379": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21TW013229": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21TW013363": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21TW013364": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R21TW013507": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R24AA033313": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R24AI197934": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R24GM146616": {
@@ -3620,7 +3765,7 @@
   "year": 2026
  },
  "R25CA281834": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R25CA285813": {
@@ -3633,15 +3778,15 @@
   "year": 2026
  },
  "R25CA298909": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R25GM146282": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R25GM146309": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R25GM150146": {
@@ -3654,7 +3799,7 @@
   "year": 2026
  },
  "R25GM150158": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R25LM014209": {
@@ -3667,16 +3812,21 @@
   "year": 2025
  },
  "R25LM014215": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R25LM014225": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R33AG079930": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "39881118",
+  "position": "last",
+  "title": "Perspectives of Hospital Medicine Providers on the Management of Oropharyngeal Dysphagia in Patients with Dementia",
+  "url": "https://doi.org/10.1007/s11606-025-09397-7",
+  "year": 2025
  },
  "R33AI180006": {
   "abs": true,
@@ -3724,7 +3874,7 @@
   "year": 2026
  },
  "R33CA315126": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R33DA059924": {
@@ -3746,8 +3896,13 @@
   "year": 2025
  },
  "R33HD112921": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "39930916",
+  "position": "unknown",
+  "title": "The Role of Medication Abortion Provision in US States Without Total Abortion Bans, 2023",
+  "url": "https://doi.org/10.1111/psrh.12294",
+  "year": 2025
  },
  "R33HL164873": {
   "abs": true,
@@ -3768,11 +3923,11 @@
   "year": 2025
  },
  "R33HL180352": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R33MH137757": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R33NS124922": {
@@ -3812,7 +3967,7 @@
   "year": 2025
  },
  "R34AA033422": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R34MH136243": {
@@ -3820,19 +3975,19 @@
   "pmid": null
  },
  "R34MH138249": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R34MH139448": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R34NS143678": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R34NS148157": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35CA197569": {
@@ -4106,11 +4261,11 @@
   "year": 2026
  },
  "R35GM158223": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM159828": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM159834": {
@@ -4141,75 +4296,75 @@
   "year": 2025
  },
  "R35GM161206": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM161279": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM161417": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM161589": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM161618": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM161634": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM161658": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM161732": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM162238": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM162254": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM163773": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM163837": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM164056": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM164112": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM165341": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM165494": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM165632": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35GM165657": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R35HL150797": {
@@ -4276,11 +4431,11 @@
   "year": 2025
  },
  "R37CA296259": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R37CA306402": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R37CA311186": {
@@ -4342,123 +4497,128 @@
   "year": 2026
  },
  "R50CA305011": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AG092803": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AG093636": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AG100922": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AG102998": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AI095066": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AI150672": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AI177505": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AI198100": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AR086275": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56AT013573": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56CA304245": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56CA308159": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56DC017175": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56DC023596": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56DE016937": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42282663",
+  "position": "middle",
+  "title": "Site-specialization of human oral Porphyromonas species",
+  "url": "https://doi.org/10.64898/2026.06.02.729646",
+  "year": 2026
  },
  "R56DE035660": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56DE035864": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56DE036269": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56EY032584": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56HD102537": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56HD118044": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56HD120425": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56HD120596": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56NS115747": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56NS118082": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56NS144404": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56NS145312": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56NS146660": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R56NS146956": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R61CA297964": {
@@ -4471,31 +4631,31 @@
   "year": 2026
  },
  "R61CA302658": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R61HD123415": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R61HD123420": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R61HL180327": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R61HL183254": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R61NS145289": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "R61NS150122": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "RF1AG078170": {
@@ -4544,63 +4704,73 @@
   "year": 2026
  },
  "RF1NS143914": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "RF1NS144086": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "RF1NS146067": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "RF1NS148614": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "RF1TW013269": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42623730",
+  "position": "last",
+  "title": "Traditional healers\u2019 knowledge, experience, and practices related to multiple sclerosis in the Republic of Guinea: A mixed methods study",
+  "url": "https://doi.org/10.1016/j.msard.2026.107450",
+  "year": 2026
  },
  "RM1AT013315": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "RM1AT013318": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "RM1NS143831": {
-  "checked": "2026-09-23",
-  "pmid": null
+  "abs": true,
+  "checked": "2026-10-26",
+  "pmid": "42391783",
+  "position": "last",
+  "title": "Establishment and characterization of three human pluripotent stem cell lines from patients with spinocerebellar ataxia 27B (SCA27B)",
+  "url": "https://doi.org/10.1016/j.scr.2026.104055",
+  "year": 2026
  },
  "S06GM159291": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "S10DE037202": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "S10EY040502": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "S10OD038146": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "S10OD038261": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "S10OD040079": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "S10OD040178": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "T32AI165391": {
@@ -4685,11 +4855,11 @@
   "year": 2026
  },
  "U01AI190384": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01AI190394": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01CA167552": {
@@ -4747,27 +4917,27 @@
   "year": 2026
  },
  "U01CA307238": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01CA319117": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01CA319219": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01DE036113": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01DE037209": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01EB038438": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01EY034693": {
@@ -4780,15 +4950,15 @@
   "year": 2026
  },
  "U01EY038042": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01EY039505": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01FD007156": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01FD007695": {
@@ -4801,7 +4971,7 @@
   "year": 2025
  },
  "U01FD008283": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01FD008304": {
@@ -4831,19 +5001,19 @@
   "pmid": null
  },
  "U01FD008727": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01FD008732": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01GM152530": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01GM152538": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U01HG013771": {
@@ -4964,7 +5134,7 @@
   "pmid": null
  },
  "U18FD008964": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U18FD008965": {
@@ -5044,7 +5214,7 @@
   "year": 2025
  },
  "U24AT013971": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U24CA274159": {
@@ -5057,7 +5227,7 @@
   "year": 2026
  },
  "U24CA302705": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U24DA057611": {
@@ -5070,7 +5240,7 @@
   "year": 2025
  },
  "U24GM146576": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U24HG006834": {
@@ -5128,7 +5298,7 @@
   "year": 2023
  },
  "U24HL185609": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U24MH130919": {
@@ -5316,7 +5486,7 @@
   "year": 2026
  },
  "U54HD122910": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "U54MD007586": {
@@ -5338,7 +5508,7 @@
   "year": 2022
  },
  "U54TR006478": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "UG1CA189809": {
@@ -5378,19 +5548,19 @@
   "year": 2026
  },
  "UG1EY037202": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "UG3CA315306": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "UG3DE034676": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "UG3HD121025": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "UG3HL179928": {
@@ -5403,7 +5573,7 @@
   "year": 2025
  },
  "UG3NS138154": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "UH3AT012547": {
@@ -5434,7 +5604,7 @@
   "year": 2026
  },
  "UH3CA297234": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "UH3HG013553": {
@@ -5465,7 +5635,7 @@
   "year": 2026
  },
  "UH3NS145203": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  },
  "UM1HG010971": {
@@ -5496,7 +5666,7 @@
   "year": 2026
  },
  "UM2HD119552": {
-  "checked": "2026-09-23",
+  "checked": "2026-10-26",
   "pmid": null
  }
 }
